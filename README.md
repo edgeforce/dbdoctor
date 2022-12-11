@@ -1,2 +1,2 @@
 # dbdoctor
-Update Cadence Allegro .brd files
+Update Cadence files
